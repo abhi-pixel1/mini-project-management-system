@@ -1,0 +1,40 @@
+{
+    "kkk": {
+        "password": "kkk",
+        "project1": {
+            "1": ["Task 1", "datetime.date(2023, 1, 1)", "datetime.date(2023, 2, 1)", 31, ["emp1", "emp2"], "high"],
+            "2": ["Task 2", "datetime.date(2023, 2, 2)", "datetime.date(2023, 3, 1)", 28, ["emp3", "emp4"], "medium"]
+        },
+        "project2": {
+            "1": ["Task 1", "datetime.date(2023, 3, 2)", "datetime.date(2023, 4, 1)", 30, ["emp5", "emp6"], "low"],
+            "2": ["Task 2", "datetime.date(2023, 4, 2)", "datetime.date(2023, 5, 1)", 29, ["emp7", "emp8"], "medium"]
+        },
+        "project3": {
+            "1": ["Task 1", "datetime.date(2023, 5, 2)", "datetime.date(2023, 6, 1)", 31, ["emp9", "emp10"], "high"],
+            "2": ["Task 2", "datetime.date(2023, 6, 2)", "datetime.date(2023, 7, 1)", 29, ["emp11", "emp12"], "low"]
+        },
+        "project4": {
+            "1": ["Task 1", "datetime.date(2023, 7, 2)", "datetime.date(2023, 8, 1)", 31, ["emp13", "emp14"], "medium"],
+            "2": ["Task 2", "datetime.date(2023, 8, 2)", "datetime.date(2023, 9, 1)", 31, ["emp15", "emp16"], "low"]
+        }
+    },
+    "pm2@gmail.com": {
+        "password": "password2",
+        "project1": {
+            "1": ["Task 1", "datetime.date(2023, 1, 1)", "datetime.date(2023, 2, 1)", 31, ["emp17", "emp18"], "high"],
+            "2": ["Task 2", "datetime.date(2023, 2, 2)", "datetime.date(2023, 3, 1)", 28, ["emp19", "emp20"], "medium"]
+        },
+        "project2": {
+            "1": ["Task 1", "datetime.date(2023, 3, 2)", "datetime.date(2023, 4, 1)", 30, ["emp21", "emp22"], "low"],
+            "2": ["Task 2", "datetime.date(2023, 4, 2)", "datetime.date(2023, 5, 1)", 29, ["emp23", "emp24"], "medium"]
+        },
+        "project3": {
+            "1": ["Task 1", "datetime.date(2023, 5, 2)", "datetime.date(2023, 6, 1)", 31, ["emp25", "emp26"], "high"],
+            "2": ["Task 2", "datetime.date(2023, 6, 2)", "datetime.date(2023, 7, 1)", 29, ["emp27", "emp28"], "low"]
+        },
+        "project4": {
+            "1": ["Task 1", "datetime.date(2023, 7, 2)", "datetime.date(2023, 8, 1)", 31, ["emp29", "emp30"], "medium"],
+            "2": ["Task 2", "datetime.date(2023, 8, 2)", "datetime.date(2023, 9, 1)", 31, ["emp31", "emp32"], "low"]
+        }
+    }
+}

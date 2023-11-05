@@ -1,0 +1,41 @@
+{
+    "kkk": {
+        "password": "kkk",
+        "name": "emp1",
+        "1": ["pm1@gmail.com", "project1", "1"],
+        "2": ["pm1@gmail.com", "project2", "1"],
+        "3": ["pm1@gmail.com", "project3", "2"],
+        "4": ["pm1@gmail.com", "project4", "2"],
+        "5": ["pm2@gmail.com", "project2", "1"],
+        "6": ["pm2@gmail.com", "project3", "1"],
+        "7": ["pm2@gmail.com", "project4", "1"]
+    },
+    "emp2@gmail.com": {
+        "password": "password1",
+        "name": "emp1",
+        "1": ["pm1@gmail.com", "project1", "1"],
+        "2": ["pm1@gmail.com", "project1", "2"],
+        "3": ["pm1@gmail.com", "project2", "1"]
+    },
+    "emp3@gmail.com": {
+        "password": "password1",
+        "name": "emp1",
+        "1": ["pm1@gmail.com", "project1", "1"],
+        "2": ["pm1@gmail.com", "project1", "2"],
+        "3": ["pm1@gmail.com", "project2", "1"]
+    },
+    "emp4@gmail.com": {
+        "password": "password1",
+        "name": "emp1",
+        "1": ["pm1@gmail.com", "project1", "1"],
+        "2": ["pm1@gmail.com", "project1", "2"],
+        "3": ["pm1@gmail.com", "project2", "1"]
+    },
+    "emp5@gmail.com": {
+        "password": "password1",
+        "name": "emp1",
+        "1": ["pm1@gmail.com", "project1", "1"],
+        "2": ["pm1@gmail.com", "project1", "2"],
+        "3": ["pm1@gmail.com", "project2", "1"]
+    }
+}

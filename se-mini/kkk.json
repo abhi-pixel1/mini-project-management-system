@@ -1,0 +1,21 @@
+{
+    "pm1@gmail.com":{
+        "password":"kkk",
+        "project1":{
+            "1":[<start_date>, <end_date>, <duration>, ["emp1","emp2"], <precidense>],
+            "2":[]
+        },
+        "project2":{
+            "1":[],
+            "2":[]
+        },
+        "project3":{
+            "1":[],
+            "2":[]
+        },
+        "project4":{
+            "1":[],
+            "2":[]
+        }
+    }
+}
